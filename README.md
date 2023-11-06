@@ -1,7 +1,6 @@
 # mlZoomcampHW3
-Dataset
 
-You can do it with wget:
+You can take dataset:
 
 wget https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv
 We'll keep working with the MSRP variable, and we'll transform it to a classification task.
